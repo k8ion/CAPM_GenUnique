@@ -1,0 +1,1 @@
+using UniqueRecordsService as service from '../../srv/genU-service';
